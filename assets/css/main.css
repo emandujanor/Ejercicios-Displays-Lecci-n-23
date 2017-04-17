@@ -6,7 +6,6 @@ section{
 }
 
 .amarillos{
-  width: 200px;
   height: 50px;
   display:inline-block;
   background-color: yellow;
@@ -19,6 +18,5 @@ section{
   display:inline-block;
   background-color: red;
   padding: 10px;
-  border: solid black thin;
   margin-left:15px;
 }
