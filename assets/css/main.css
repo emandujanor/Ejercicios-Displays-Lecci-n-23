@@ -6,6 +6,7 @@ section{
 }
 
 .amarillos{
+  width: 28%;
   height: 50px;
   display:inline-block;
   background-color: yellow;
@@ -13,7 +14,7 @@ section{
   margin-left:15px;
 }
 .rojo{
-  width: 100px;
+  width: 25%;
   height: 50px;
   display:inline-block;
   background-color: red;
